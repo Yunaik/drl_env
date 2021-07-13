@@ -1,0 +1,75 @@
+syntax = "proto3";
+
+package walle.dist;
+
+//message Net{
+//    int32 version      = 1;
+//    bytes actor        = 2;
+//}
+//
+//message Samples{
+//    int32 sampleCount  = 1;
+//    bytes samples      = 2;
+//}
+//
+//message Void {}
+//
+//message RspState{
+//
+//   enum RspSEnum{
+//        OK                  = 0;
+//        Failed              = 1;
+//   }
+//}
+//
+//service WALLE{
+//    rpc SubmitSamples(Samples) returns (Void) {}
+//    rpc GetNet(Net) returns (Net) {}
+//}
+
+message RspState{
+    int32 s       = 1;
+}
+
+message EnvInfo{
+    repeated int32 obs_dim = 1;
+    repeated int32 act_dim = 2;
+}
+
+message Uids{
+    repeated int32      ids           = 1;
+}
+
+message EnvCfg{
+   string    cfg                       = 1;
+}
+
+message Actions{
+    Uids                uids          = 1;
+    bytes               actions       = 2;
+}
+
+message Observation{
+    bytes            obs            = 1;
+}
+
+//Single Step Record [More than one robot]
+message Records{
+    bytes       obs                 = 1;
+    bytes       r                   = 2;
+    bytes       d                   = 3;
+    oneof       optional_env{
+        bytes   env_info            = 4;
+    }
+}
+
+message Void{}
+
+
+service WALLE{
+    rpc Connect(EnvCfg)   returns(EnvInfo){}
+    rpc Reset(Uids) returns(Observation){}
+    rpc Step(Actions) returns (Records) {}
+    rpc GetObs(Uids) returns(Observation){}
+    rpc DisConnect(Void) returns(RspState){}
+}

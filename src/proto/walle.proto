@@ -1,0 +1,121 @@
+syntax = "proto3";
+
+package walle.proto;
+
+
+message Position{
+    required float x = 1;
+    required float y = 2;
+    required float z = 3;
+}
+
+message Rotation{
+    required float r = 1;
+    required float p = 2;
+    required float y = 3;
+}
+
+message Action{
+    required repeated Position poss = 1;
+}
+
+message Mass{
+    required Position pos = 1;
+}
+
+message State{
+    required repeated Position poss = 1;
+    required repeated Rotation rots = 2;
+    required Mass   mass            = 3;
+}
+
+message ActMsg{
+    required string uuid        = 1;
+    required Action act         = 2;
+    bool duplicated             = 3;
+    int beam_size               = 4; 
+}
+
+message Observation{
+    required Status status      = 1;
+    required State nextstate    = 2;
+    required float reward       = 3;
+}
+
+
+
+message SimInfo{
+    required string uuid    = 1;
+    RandomInfo random       = 2;
+}
+
+message EnvConfig{
+    int maxstep = 1;
+}
+
+message RandomInfo{
+    float mass_low              = 1;
+    float mass_up               = 2;
+    float motor_friction_low    = 3;
+    float motor_friction_up     = 4;
+    float inertia_low           = 5;
+    float inertia_up            = 6;
+    float strength_low          = 7;
+    float strength_up           = 8;
+    float step_low              = 9;
+    float step_up               = 10;
+    float latency_low           = 11;
+    float latency_up            = 12;
+    float contact_friction_low  = 13;
+    float contact_friction_up   = 14;
+    float imu_bias_low          = 15;
+    float imu_bias_up           = 16;
+    float imu_noise_low         = 17;
+    float imu_noise_up          = 18;
+}
+
+message EnvRst{
+    bool success;
+    string ip;
+    string ext_msg;
+}
+
+enum Status {
+    BEGAN       = 0;
+    CONTINUE    = 1;
+    FINISHED    = 2;
+    ABNORMAL    = 3;
+    TIMEOUT     = 4;
+}
+
+service Simulation{
+    rpc CreateEnv(SimInfo) returns (CreateRst) {}
+    rpc DropEnv(SimInfo) returns (EnvRst) {}
+    rpc DoAct(ActMsg) returns (Observation) {}
+}
+
+message VisInfo{
+    required string uuid = 1;
+    int     timestep     = 2;
+}
+
+message VisBatchInfo{
+    repeated VisInfo sims = 1;
+}
+
+message Record{
+    required string uuid        = 1;
+    required int timestep       = 2;
+    required State statenow     = 3;
+    required Action act         = 4;
+    required Observation obs    = 5;
+}
+
+message BatchRecords{
+    repeated Record records = 1;
+}
+
+service Visulization{
+    rpc GetOne(VisInfo) repeated Records {}
+    rpc BatchFetch(VisBatchInfo) BatchRecords{}
+}

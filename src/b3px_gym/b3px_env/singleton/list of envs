@@ -1,0 +1,17 @@
+list of envs:
+> InvertedPendulum-v2: Balance a pole on a cart.
+> InvertedDoublePendulum-v2: Balance a pole on a pole on a cart.
+Reacher-v2: Make a 2D robot reach to a randomly located target.
+Walker2d-v2: Make a 2D robot walk.
+Humanoid-v2: Make a 3D two-legged robot walk.
+HumanoidStandup-v2: Make a 3D two-legged robot standup.
+Ant-v2: Make a 3D four-legged robot walk.
+HalfCheetah-v2: Make a 2D cheetah robot run.
+FetchPickAndPlace-v1: Lift a block into the air.
+FetchPush-v1: Push a block to a goal position.
+FetchReach-v1: Move Fetch to a goal position.
+FetchSlide-v1: Slide a puck to a goal position.
+HandManipulateBlock-v0: Orient a block using a robot hand.
+HandManipulateEgg-v0: Orient an egg using a robot hand.
+HandManipulatePen-v0: Orient a pen using a robot hand.
+HandReach-v0: Reach a pose using a robot hand.

@@ -1,0 +1,8 @@
+checklist:
+getReward()
+set_pos()
+checkFall()
+get_observation()
+load pos and plane
+
+Make sure robot doesn't fall off cliff -> make plane large enough to fit into -1 0 1 grid. Can freely move forward

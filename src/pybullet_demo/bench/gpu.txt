@@ -1,0 +1,277 @@
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+13c5b80e-8892-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  13c5b80e-8892-11e9-a550-0c9d92c427c2
+{'time': 21.47087335586548, 'count': 3000, 'simRate': 0.1397241719177879, 'cpu_user': 21.54, 'cpu_sys': 1.81, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 1, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '13c5b80e-8892-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+21c7e40e-8892-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  21c7e40e-8892-11e9-a550-0c9d92c427c2
+{'time': 24.177322387695312, 'count': 3000, 'simRate': 1.3649154141566504, 'cpu_user': 24.61, 'cpu_sys': 1.9, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 11, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '21c7e40e-8892-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+31a0f226-8892-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  31a0f226-8892-11e9-a550-0c9d92c427c2
+{'time': 24.801647901535034, 'count': 3000, 'simRate': 2.5401537934138956, 'cpu_user': 25.6, 'cpu_sys': 1.94, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 21, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '31a0f226-8892-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+4216d2c4-8892-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  4216d2c4-8892-11e9-a550-0c9d92c427c2
+{'time': 30.763832330703735, 'count': 3000, 'simRate': 3.0230303884208105, 'cpu_user': 31.95, 'cpu_sys': 1.92, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 31, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '4216d2c4-8892-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+5651a49e-8892-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  5651a49e-8892-11e9-a550-0c9d92c427c2
+{'time': 26.108850240707397, 'count': 3000, 'simRate': 4.711046210998045, 'cpu_user': 27.64, 'cpu_sys': 1.92, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 41, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '5651a49e-8892-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+67fbc77e-8892-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  67fbc77e-8892-11e9-a550-0c9d92c427c2
+{'time': 31.44329524040222, 'count': 3000, 'simRate': 4.865902216362067, 'cpu_user': 33.36, 'cpu_sys': 1.9, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 51, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '67fbc77e-8892-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+7d0af9b4-8892-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  7d0af9b4-8892-11e9-a550-0c9d92c427c2
+{'time': 31.627300262451172, 'count': 3000, 'simRate': 5.786140406592427, 'cpu_user': 33.87, 'cpu_sys': 1.94, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 61, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '7d0af9b4-8892-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+9275d0b2-8892-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  9275d0b2-8892-11e9-a550-0c9d92c427c2
+{'time': 26.993289947509766, 'count': 3000, 'simRate': 7.8908499265629555, 'cpu_user': 29.54, 'cpu_sys': 1.99, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 71, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '9275d0b2-8892-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+a549beec-8892-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  a549beec-8892-11e9-a550-0c9d92c427c2
+{'time': 32.00916242599487, 'count': 3000, 'simRate': 7.591576335738731, 'cpu_user': 34.91, 'cpu_sys': 2.0, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 81, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'a549beec-8892-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+bb547222-8892-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  bb547222-8892-11e9-a550-0c9d92c427c2
+{'time': 32.47958469390869, 'count': 3000, 'simRate': 8.405279888052238, 'cpu_user': 35.76, 'cpu_sys': 1.97, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 91, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'bb547222-8892-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+d1dce3f8-8892-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  d1dce3f8-8892-11e9-a550-0c9d92c427c2
+{'time': 31.174257516860962, 'count': 3000, 'simRate': 19.24664924819727, 'cpu_user': 38.27, 'cpu_sys': 2.06, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 200, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'd1dce3f8-8892-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+e9f03878-8892-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  e9f03878-8892-11e9-a550-0c9d92c427c2
+{'time': 42.31086182594299, 'count': 3000, 'simRate': 28.361511635865984, 'cpu_user': 56.31, 'cpu_sys': 2.33, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 400, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'e9f03878-8892-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+0cf641b4-8893-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  0cf641b4-8893-11e9-a550-0c9d92c427c2
+{'time': 63.35896849632263, 'count': 3000, 'simRate': 28.409553417910715, 'cpu_user': 84.38, 'cpu_sys': 2.49, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 600, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '0cf641b4-8893-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+40cab61e-8893-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  40cab61e-8893-11e9-a550-0c9d92c427c2
+{'time': 74.30419731140137, 'count': 3000, 'simRate': 32.299655831578974, 'cpu_user': 102.34, 'cpu_sys': 2.66, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 800, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '40cab61e-8893-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+7f735ea2-8893-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  7f735ea2-8893-11e9-a550-0c9d92c427c2
+{'time': 92.57892751693726, 'count': 3000, 'simRate': 32.40478238907177, 'cpu_user': 127.4, 'cpu_sys': 3.05, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 1000, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '7f735ea2-8893-11e9-a550-0c9d92c427c2'}
+finished
+pybullet build time: Jun  6 2019 02:56:51
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+9421135a-889b-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  9421135a-889b-11e9-a550-0c9d92c427c2
+{'time': 125.0896360874176, 'count': 3000, 'simRate': 35.97420330534195, 'cpu_user': 177.41, 'cpu_sys': 3.35, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 1500, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '9421135a-889b-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+0030e368-889c-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  0030e368-889c-11e9-a550-0c9d92c427c2
+{'time': 201.0351848602295, 'count': 3000, 'simRate': 37.306902297796306, 'cpu_user': 288.59, 'cpu_sys': 3.87, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 2500, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '0030e368-889c-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+af121cd0-889c-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  af121cd0-889c-11e9-a550-0c9d92c427c2
+{'time': 281.4180963039398, 'count': 3000, 'simRate': 37.31103343354185, 'cpu_user': 404.49, 'cpu_sys': 4.35, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 3500, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'af121cd0-889c-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+a369677a-889d-11e9-a550-0c9d92c427c2
+--numCores=1 --solver=pgs --gpu=1 --gmem_enlarge=50
+finished  a369677a-889d-11e9-a550-0c9d92c427c2
+{'time': 358.4816789627075, 'count': 3000, 'simRate': 37.65882830905953, 'cpu_user': 516.11, 'cpu_sys': 5.57, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 3, 'gpu': True, 'core': 1, 'enlarge': 50, 'instance': 4500, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'a369677a-889d-11e9-a550-0c9d92c427c2'}
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+PxPhysics::createMaterial: limit of 64K materials reached. in file:src/PhysX/physx/source/physx/src/NpPhysics.cpp line:413
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+PxPhysics::createMaterial: limit of 64K materials reached. in file:src/PhysX/physx/source/physx/src/NpPhysics.cpp line:413
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+PxPhysics::createMaterial: limit of 64K materials reached. in file:src/PhysX/physx/source/physx/src/NpPhysics.cpp line:413
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+PxPhysics::createMaterial: limit of 64K materials reached. in file:src/PhysX/physx/source/physx/src/NpPhysics.cpp line:413
+pybullet build time: Jun  6 2019 02:56:51
+argv[0]=--numCores=1
+argv[1]=--solver=pgs
+argv[2]=--gpu=1
+argv[3]=--gmem_enlarge=50
+PhysX numCores=1
+PhysX using PGS
+Use GPU
+PxPhysics::createMaterial: limit of 64K materials reached. in file:src/PhysX/physx/source/physx/src/NpPhysics.cpp line:413
+finished
+pybullet build time: Jun  6 2019 02:56:51

@@ -1,0 +1,154 @@
+pybullet build time: May 30 2019 02:06:26
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+panda_link0b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+panda_link1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+panda_link2b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+panda_link3b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+panda_link4b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+panda_link5b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+panda_link6b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+panda_link7b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+panda_link8b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+panda_handb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+panda_leftfingerb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+panda_rightfinger{'time': 9.03127145767212, 'count': 100000, 'simRate': 11.072638051982082, 'cpu_user': 9.33, 'cpu_sys': 0.05, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 100, 'gpu': False, 'enlarge': 1, 'instance': 1, 'instance_dist': 1, 'solver': 0, 'numSolverIterations': 4, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.001, 'sample_freq': 40, 'need_log': True, 'uuid': '058a6332-831c-11e9-bc5f-80c5f260ebb5'}
+pybullet build time: May 30 2019 02:06:26
+argv[0]=--numCores=16--solver=pgs
+PhysX numCores=16
+PhysX using PGS
+Not use gpu!
+b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link0b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link1b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link2b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link3b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link4b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link5b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link6b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link7b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link8b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_handb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_leftfingerb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_rightfinger--numCores=16--solver=pgs
+{'time': 62.125670433044434, 'count': 100000, 'simRate': 1.609640576962053, 'cpu_user': 93.51, 'cpu_sys': 343.57, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 100, 'gpu': False, 'enlarge': 1, 'instance': 1, 'instance_dist': 1, 'solver': 0, 'numSolverIterations': 4, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.001, 'sample_freq': 40, 'need_log': True, 'uuid': '0b24ba54-831c-11e9-bc5f-80c5f260ebb5'}
+pybullet build time: May 30 2019 02:06:26
+argv[0]=--numCores=16--solver=tgs
+PhysX numCores=16
+PhysX using PGS
+Not use gpu!
+b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link0b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link1b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link2b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link3b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link4b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link5b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link6b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link7b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link8b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_handb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_leftfingerb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_rightfinger--numCores=16--solver=tgs
+{'time': 62.14955973625183, 'count': 100000, 'simRate': 1.6090218567014243, 'cpu_user': 92.48, 'cpu_sys': 345.79, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 100, 'gpu': False, 'enlarge': 1, 'instance': 1, 'instance_dist': 1, 'solver': 1, 'numSolverIterations': 4, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.001, 'sample_freq': 40, 'need_log': True, 'uuid': '302fc44c-831c-11e9-bc5f-80c5f260ebb5'}
+pybullet build time: May 30 2019 02:06:26
+argv[0]=--numCores=16--solver=pgs
+argv[1]=--gpu=1
+PhysX numCores=16
+PhysX using PGS
+Use GPU
+b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link0b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link1b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link2b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link3b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link4b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link5b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link6b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link7b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link8b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_handb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_leftfingerb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_rightfinger--numCores=16--solver=pgs --gpu=1
+{'time': 1607.6808693408966, 'count': 100000, 'simRate': 0.06220139948607907, 'cpu_user': 1688.41, 'cpu_sys': 443.92, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 100, 'gpu': True, 'enlarge': 1, 'instance': 1, 'instance_dist': 1, 'solver': 0, 'numSolverIterations': 4, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.001, 'sample_freq': 40, 'need_log': True, 'uuid': '553deebc-831c-11e9-bc5f-80c5f260ebb5'}
+pybullet build time: May 30 2019 02:06:26
+argv[0]=--numCores=16--solver=tgs
+argv[1]=--gpu=1
+PhysX numCores=16
+PhysX using PGS
+Use GPU
+b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link0b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link1b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link2b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link3b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link4b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link5b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link6b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link7b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_link8b3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_handb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_leftfingerb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/SharedMemory/physx/PhysXUrdfImporter.cpp,123]:
+panda_rightfinger--numCores=16--solver=tgs --gpu=1
+{'time': 1604.9719042778015, 'count': 100000, 'simRate': 0.062306386631109024, 'cpu_user': 1679.87, 'cpu_sys': 464.86, 'physx': True, 'gui': False, 'freq': 1000, 'sec': 100, 'gpu': True, 'enlarge': 1, 'instance': 1, 'instance_dist': 1, 'solver': 1, 'numSolverIterations': 4, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.001, 'sample_freq': 40, 'need_log': True, 'uuid': '139a9a38-8320-11e9-bc5f-80c5f260ebb5'}
+finished
+pybullet build time: May 30 2019 02:06:26

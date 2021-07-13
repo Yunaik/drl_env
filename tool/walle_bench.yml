@@ -1,0 +1,96 @@
+version: '2.4'
+services:
+       seed1:
+        image: "cuda_10.1"
+        container_name: s1
+        entrypoint: /bin/zsh
+        #privileged: true
+        stdin_open: true
+        tty: true
+        runtime: nvidia
+        shm_size: 64g
+        volumes:
+            - /home/sshadvr:/home/sshadvr
+        environment:
+            - HOME=/home/sshadvr
+            - NVIDIA_VISIBLE_DEVICES=0
+            - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+            - ZSH_DISABLE_COMPFIX=true
+        entrypoint: /usr/sbin/sshd -D
+        working_dir: /home/sshadvr
+
+       seed2:
+        image: "cuda_10.1"
+        container_name: s2
+        entrypoint: /bin/zsh
+        #privileged: true
+        stdin_open: true
+        tty: true
+        runtime: nvidia
+        shm_size: 64g
+        volumes:
+            - /home/sshadvr:/home/sshadvr
+        environment:
+            - HOME=/home/sshadvr
+            - NVIDIA_VISIBLE_DEVICES=1
+            - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+            - ZSH_DISABLE_COMPFIX=true
+        entrypoint: /usr/sbin/sshd -D
+        working_dir: /home/sshadvr
+
+       seed3:
+        image: "cuda_10.1"
+        container_name: s3
+        entrypoint: /bin/zsh
+        #privileged: true
+        stdin_open: true
+        tty: true
+        runtime: nvidia
+        shm_size: 64g
+        volumes:
+            - /home/sshadvr:/home/sshadvr
+        environment:
+            - HOME=/home/sshadvr
+            - NVIDIA_VISIBLE_DEVICES=2
+            - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+            - ZSH_DISABLE_COMPFIX=true
+        entrypoint: /usr/sbin/sshd -D
+        working_dir: /home/sshadvr
+
+       seed4:
+        image: "cuda_10.1"
+        container_name: s4
+        entrypoint: /bin/zsh
+        #privileged: true
+        stdin_open: true
+        tty: true
+        runtime: nvidia
+        shm_size: 64g
+        volumes:
+            - /home/sshadvr:/home/sshadvr
+        environment:
+            - HOME=/home/sshadvr
+            - NVIDIA_VISIBLE_DEVICES=3
+            - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+            - ZSH_DISABLE_COMPFIX=true
+        entrypoint: /usr/sbin/sshd -D
+        working_dir: /home/sshadvr
+
+       seed5:
+        image: "cuda_10.1"
+        container_name: s5
+        entrypoint: /bin/zsh
+        #privileged: true
+        stdin_open: true
+        tty: true
+        runtime: nvidia
+        shm_size: 64g
+        volumes:
+            - /home/sshadvr:/home/sshadvr
+        environment:
+            - HOME=/home/sshadvr
+            - NVIDIA_VISIBLE_DEVICES=0
+            - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+            - ZSH_DISABLE_COMPFIX=true
+        entrypoint: /usr/sbin/sshd -D
+        working_dir: /home/sshadvr

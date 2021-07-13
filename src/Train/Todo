@@ -1,0 +1,22 @@
+Goal: get data faster than currently. Currently using pybullet, the RTF is ?? -> get that number from sac anymal
+
+
+Write code that can load env calling just step to gather steps, and benchmark it. Adapt test.py to collect
+
+Measure how long it takes to get 10k samples -> 6.7min of data
+
+20x real time speed already allows policies in an hour that need a day of training. On 10 workers, this is 200 -> 1min for collecting data. 
+> This allows for interesting applications that usually require too much data train on real system:
+    - BO, Meta learning, DRL with robustness
+> Iteration time is crucial to tune and test algorithms.
+
+Todo:
+
+> use dynamics on GPU
+> use contacts on GPU
+> understand how to spawn even more core/instances
+> Logging the right thing?
+> segfaulting all the time if too many
+> what does num_core do
+> combine with own parallel environment? Can have more than 8 worker?
+How to truly parallelise on GPU? Currently only 50 per instance -> need more often in multithrad? Check client

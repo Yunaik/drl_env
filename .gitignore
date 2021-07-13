@@ -1,0 +1,6 @@
+src/data
+*~
+!**/__pycache__/
+*.pyc
+
+src/distributed_train/logs/*.json

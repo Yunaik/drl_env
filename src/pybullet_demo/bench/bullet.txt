@@ -1,0 +1,80 @@
+9df1cddc-8884-11e9-a550-0c9d92c427c2
+finished  9df1cddc-8884-11e9-a550-0c9d92c427c2
+{'time': 1.5993716716766357, 'count': 10000, 'simRate': 6.2524553717504014, 'cpu_user': 1.64, 'cpu_sys': 0.0, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 1, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '9df1cddc-8884-11e9-a550-0c9d92c427c2'}
+9eedcd76-8884-11e9-a550-0c9d92c427c2
+finished  9eedcd76-8884-11e9-a550-0c9d92c427c2
+{'time': 33.42837882041931, 'count': 10000, 'simRate': 6.282087478071897, 'cpu_user': 34.03, 'cpu_sys': 0.1, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 21, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '9eedcd76-8884-11e9-a550-0c9d92c427c2'}
+b347fa8a-8884-11e9-a550-0c9d92c427c2
+finished  b347fa8a-8884-11e9-a550-0c9d92c427c2
+{'time': 56.94265818595886, 'count': 10000, 'simRate': 7.200225859865098, 'cpu_user': 57.98, 'cpu_sys': 0.35, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 41, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'b347fa8a-8884-11e9-a550-0c9d92c427c2'}
+d6145c3e-8884-11e9-a550-0c9d92c427c2
+finished  d6145c3e-8884-11e9-a550-0c9d92c427c2
+{'time': 68.54666066169739, 'count': 10000, 'simRate': 8.899047657632384, 'cpu_user': 70.21, 'cpu_sys': 0.46, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 61, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'd6145c3e-8884-11e9-a550-0c9d92c427c2'}
+003b5b16-8885-11e9-a550-0c9d92c427c2
+finished  003b5b16-8885-11e9-a550-0c9d92c427c2
+{'time': 86.14205145835876, 'count': 10000, 'simRate': 9.403073020516066, 'cpu_user': 88.31, 'cpu_sys': 0.68, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 81, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '003b5b16-8885-11e9-a550-0c9d92c427c2'}
+35508650-8885-11e9-a550-0c9d92c427c2
+finished  35508650-8885-11e9-a550-0c9d92c427c2
+{'time': 117.94735598564148, 'count': 10000, 'simRate': 8.5631423575358, 'cpu_user': 120.77, 'cpu_sys': 0.71, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 101, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '35508650-8885-11e9-a550-0c9d92c427c2'}
+7dc563c4-8885-11e9-a550-0c9d92c427c2
+finished  7dc563c4-8885-11e9-a550-0c9d92c427c2
+{'time': 127.52994966506958, 'count': 10000, 'simRate': 9.487967361218356, 'cpu_user': 130.98, 'cpu_sys': 0.79, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 121, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '7dc563c4-8885-11e9-a550-0c9d92c427c2'}
+cc5c16b8-8885-11e9-a550-0c9d92c427c2
+finished  cc5c16b8-8885-11e9-a550-0c9d92c427c2
+{'time': 149.44104266166687, 'count': 10000, 'simRate': 9.43515900910988, 'cpu_user': 153.42, 'cpu_sys': 0.96, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 141, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'cc5c16b8-8885-11e9-a550-0c9d92c427c2'}
+286e8602-8886-11e9-a550-0c9d92c427c2
+finished  286e8602-8886-11e9-a550-0c9d92c427c2
+{'time': 180.8518660068512, 'count': 10000, 'simRate': 8.902313454366064, 'cpu_user': 185.34, 'cpu_sys': 1.18, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 161, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '286e8602-8886-11e9-a550-0c9d92c427c2'}
+97ae4d86-8886-11e9-a550-0c9d92c427c2
+finished  97ae4d86-8886-11e9-a550-0c9d92c427c2
+{'time': 183.11932229995728, 'count': 10000, 'simRate': 9.884265501131239, 'cpu_user': 187.91, 'cpu_sys': 1.29, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 181, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '97ae4d86-8886-11e9-a550-0c9d92c427c2'}
+0887fd90-8887-11e9-a550-0c9d92c427c2
+finished  0887fd90-8887-11e9-a550-0c9d92c427c2
+{'time': 228.04021501541138, 'count': 10000, 'simRate': 8.814234804436405, 'cpu_user': 233.33, 'cpu_sys': 1.45, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 201, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '0887fd90-8887-11e9-a550-0c9d92c427c2'}
+948ececc-8887-11e9-a550-0c9d92c427c2
+finished  948ececc-8887-11e9-a550-0c9d92c427c2
+{'time': 266.8368601799011, 'count': 10000, 'simRate': 8.282214078332432, 'cpu_user': 272.73, 'cpu_sys': 1.51, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 221, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '948ececc-8887-11e9-a550-0c9d92c427c2'}
+381d0914-8888-11e9-a550-0c9d92c427c2
+finished  381d0914-8888-11e9-a550-0c9d92c427c2
+{'time': 293.4600884914398, 'count': 10000, 'simRate': 8.212360366920217, 'cpu_user': 299.9, 'cpu_sys': 1.61, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 241, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '381d0914-8888-11e9-a550-0c9d92c427c2'}
+ebeeca7c-8888-11e9-a550-0c9d92c427c2
+finished  ebeeca7c-8888-11e9-a550-0c9d92c427c2
+{'time': 354.4046542644501, 'count': 10000, 'simRate': 7.364463103389345, 'cpu_user': 361.3, 'cpu_sys': 1.81, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 261, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'ebeeca7c-8888-11e9-a550-0c9d92c427c2'}
+c47c1106-8889-11e9-a550-0c9d92c427c2
+finished  c47c1106-8889-11e9-a550-0c9d92c427c2
+{'time': 411.7939176559448, 'count': 10000, 'simRate': 6.823801614155371, 'cpu_user': 419.17, 'cpu_sys': 1.99, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 281, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'c47c1106-8889-11e9-a550-0c9d92c427c2'}
+bfa55434-888a-11e9-a550-0c9d92c427c2
+finished  bfa55434-888a-11e9-a550-0c9d92c427c2
+{'time': 460.1931414604187, 'count': 10000, 'simRate': 6.5407319858088115, 'cpu_user': 467.93, 'cpu_sys': 2.29, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 301, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'bfa55434-888a-11e9-a550-0c9d92c427c2'}
+finished
+pybullet build time: Jun  6 2019 02:56:51
+7e26298c-889b-11e9-a550-0c9d92c427c2
+finished  7e26298c-889b-11e9-a550-0c9d92c427c2
+{'time': 676.8101165294647, 'count': 10000, 'simRate': 5.171317500316396, 'cpu_user': 686.51, 'cpu_sys': 1.91, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 350, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '7e26298c-889b-11e9-a550-0c9d92c427c2'}
+188c9352-889d-11e9-a550-0c9d92c427c2
+finished  188c9352-889d-11e9-a550-0c9d92c427c2
+{'time': 869.0938680171967, 'count': 10000, 'simRate': 4.602494790494658, 'cpu_user': 880.95, 'cpu_sys': 2.23, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 400, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '188c9352-889d-11e9-a550-0c9d92c427c2'}
+270b4f2a-889f-11e9-a550-0c9d92c427c2
+finished  270b4f2a-889f-11e9-a550-0c9d92c427c2
+{'time': 1038.5275785923004, 'count': 10000, 'simRate': 4.333057775990546, 'cpu_user': 1051.47, 'cpu_sys': 2.79, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 450, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '270b4f2a-889f-11e9-a550-0c9d92c427c2'}
+9b8c25c0-88a1-11e9-a550-0c9d92c427c2
+finished  9b8c25c0-88a1-11e9-a550-0c9d92c427c2
+{'time': 1235.552678346634, 'count': 10000, 'simRate': 4.046772013550078, 'cpu_user': 1248.01, 'cpu_sys': 4.02, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 500, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '9b8c25c0-88a1-11e9-a550-0c9d92c427c2'}
+86213fd8-88a4-11e9-a550-0c9d92c427c2
+finished  86213fd8-88a4-11e9-a550-0c9d92c427c2
+{'time': 1495.7524070739746, 'count': 10000, 'simRate': 3.6770791569436465, 'cpu_user': 1509.3, 'cpu_sys': 4.52, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 550, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '86213fd8-88a4-11e9-a550-0c9d92c427c2'}
+0ccecee4-88a8-11e9-a550-0c9d92c427c2
+finished  0ccecee4-88a8-11e9-a550-0c9d92c427c2
+{'time': 1710.653243780136, 'count': 10000, 'simRate': 3.5074320420083676, 'cpu_user': 1726.23, 'cpu_sys': 5.0, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 600, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '0ccecee4-88a8-11e9-a550-0c9d92c427c2'}
+1514e1ac-88ac-11e9-a550-0c9d92c427c2
+finished  1514e1ac-88ac-11e9-a550-0c9d92c427c2
+{'time': 1923.2104752063751, 'count': 10000, 'simRate': 3.3797652850775477, 'cpu_user': 1938.95, 'cpu_sys': 5.6, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 650, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '1514e1ac-88ac-11e9-a550-0c9d92c427c2'}
+9c999c22-88b0-11e9-a550-0c9d92c427c2
+finished  9c999c22-88b0-11e9-a550-0c9d92c427c2
+{'time': 2226.6842963695526, 'count': 10000, 'simRate': 3.14368768460486, 'cpu_user': 2243.4, 'cpu_sys': 6.23, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 700, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '9c999c22-88b0-11e9-a550-0c9d92c427c2'}
+da0862c8-88b5-11e9-a550-0c9d92c427c2
+finished  da0862c8-88b5-11e9-a550-0c9d92c427c2
+{'time': 2411.7521204948425, 'count': 10000, 'simRate': 3.1097723253835694, 'cpu_user': 2429.65, 'cpu_sys': 6.66, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 750, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': 'da0862c8-88b5-11e9-a550-0c9d92c427c2'}
+86c16f64-88bb-11e9-a550-0c9d92c427c2
+finished  86c16f64-88bb-11e9-a550-0c9d92c427c2
+{'time': 2753.9847984313965, 'count': 10000, 'simRate': 2.9048816843711727, 'cpu_user': 2772.46, 'cpu_sys': 7.16, 'physx': False, 'gui': False, 'freq': 1000, 'sec': 10, 'gpu': False, 'core': 1, 'enlarge': 50, 'instance': 800, 'instance_dist': 5, 'solver': 0, 'numSolverIterations': 10, 'minimumSolverIslandSize': 1024, 'contactBreakingThreshold': 0.01, 'sample_freq': 25, 'need_log': False, 'profile': False, 'uuid': '86c16f64-88bb-11e9-a550-0c9d92c427c2'}
